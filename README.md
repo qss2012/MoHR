@@ -2,7 +2,7 @@
 
 This is our TensorFlow implementation for the paper:
 
-[Wang-Cheng Kang](http://kwc-oliver.com/), [Mengting Wan](https://cseweb.ucsd.edu/~m5wan/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). *[Recommendation Through Mixtures of Heterogeneous Item Relationships.](https://arxiv.org/pdf/1809.09739.pdf)* In Proceedings of ACM Conference on Information and Knowledge Management (CIKM'18)
+[Wang-Cheng Kang](http://kwc-oliver.com/), [Mengting Wan](https://cseweb.ucsd.edu/~m5wan/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (2018). *[Recommendation Through Mixtures of Heterogeneous Item Relationships.](https://arxiv.org/pdf/1809.09739.pdf)* In Proceedings of ACM Conference on Information and Knowledge Management (CIKM'18)
 
 Please cite our paper if you use the code or datasets.
 
