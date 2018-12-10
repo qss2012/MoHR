@@ -18,9 +18,8 @@ The `Automotive` from Amazon is included in the repo. All datasets (after pre-pr
 - *[Amazon Toys](http://cseweb.ucsd.edu/~wckang/MoHR/data/Toys_and_GamesPartitioned.npy)*
 - *[Amazon Games](http://cseweb.ucsd.edu/~wckang/MoHR/data/Video_GamesPartitioned.npy)*
 - *[Google Local](http://cseweb.ucsd.edu/~wckang/MoHR/data/GooglePartitioned.npy)*
-- Steam (TBA)
+- Steam (raw): [reviews](http://cseweb.ucsd.edu/~wckang/steam_reviews.json.gz), [game info](http://cseweb.ucsd.edu/~wckang/steam_games.json.gz)
 
-TODO: Data processing scripts and raw data. 
 
 ## Model Training
 
